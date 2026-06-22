@@ -48,14 +48,14 @@ Form tambah dan edit artikel diperbarui dengan dropdown kategori sehingga setiap
 
 ### Tampilan Daftar Artikel
 
-![Screenshot Daftar Artikel](images/daftar-artikel.png)
+![Screenshot Daftar Artikel](gambar/daftar.png)
 
 ---
 
 
 ### Form Tambah Artikel
 
-![Screenshot Form Tambah](images/form-tambah.png)
+![Screenshot Form Tambah](gambar/tambah.png)
 
 ---
 
